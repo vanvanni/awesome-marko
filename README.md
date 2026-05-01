@@ -17,7 +17,7 @@
 
 *Official and community modules for Marko.*
 
-*No modules yet - be the first to add one!*
+- [marko-blade](https://github.com/vanvanni/marko-blade) - Blade templating driver for the Marko Framework.
 
 ## Plugins
 
